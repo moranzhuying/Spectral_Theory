@@ -31,26 +31,26 @@ Content/
 │  ├─ 4_Holomorphic_functional_calculus/
 │  ├─ 5_Regular_commutative_Banach_algebras/
 │  ├─ 6_Involutive_normed_algebras/
-│  └─ 7_Algebras_of_continuous_functions_on_a_compact_space/
-├─ 2_Appendix/
-├─ 3_Locally_Compact_Commutative_Groups/
+│  ├─ 7_Algebras_of_continuous_functions_on_a_compact_space/
+│  └─ 8_Appendix/
+├─ 2_Locally_Compact_Commutative_Groups/
 │  ├─ 1_Fourier_transform/
 │  ├─ 2_Structure_of_locally_compact_commutative_groups/
 │  └─ 3_Harmonic_synthesis_in_the_spaces_L^1G_L^2G_L^∞G/
-├─ 4_Compact_Linear_Maps_and_Perturbations/
+├─ 3_Compact_Linear_Maps_and_Perturbations/
 │  ├─ 1_Compact_linear_maps/
 │  ├─ 2_Examples_of_compact_linear_maps/
 │  ├─ 3_Fredholm_endomorphisms_and_Riesz_endomorphisms/
 │  ├─ 4_Perturbations_in_Banach_spaces/
 │  ├─ 5_Perturbation_by_a_compact_linear_map/
 │  └─ 6_Spectral_properties_of_endomorphisms_of_Banach_spaces/
-├─ 5_HiIbertian_Spectral_Theory/
+├─ 4_HiIbertian_Spectral_Theory/
 │  ├─ 1_Compact_operators_on_a_Hilbert_space/
 │  ├─ 2_Normal_endomorphisms/
 │  ├─ 3_Distributions_and_tempered_distributions/
 │  ├─ 4_Partial_operators/
 │  └─ 5_Normal_partial_operators_and_the_spectral_theorem/
-└─ 6_Unitary_Representations/
+└─ 5_Unitary_Representations/
    ├─ 1_Unitary_representations/
    ├─ 2_Representations_of_locally_compact_groups/
    ├─ 3_Functions_of_positive_type/
